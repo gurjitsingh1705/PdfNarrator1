@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd6cfa1f-0d68-4a99-9a54-d4d28b75800d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PdfNarrator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/00_front_matter.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/00_preface_introduction_to_real_estate_and_mortgage_brokerage.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/01_chapter_01_fundamentals_of_law.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/02_chapter_02_the_mortgage_brokers_act_and_professional_ethics.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/03_chapter_03_what_the_purchaser_buys_estates_and_interests_in_land.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/04_chapter_04_title_registration_and_strata_properties_in_british_columbia.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/05_chapter_05_the_professional_liability_of_mortgage_brokers.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/06_chapter_06_the_law_of_contract.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/07_chapter_07_introduction_to_mortgage_law.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/08_chapter_08_financial_statements.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/09_chapter_09_introduction_to_mortgage_finance.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/10_chapter_10_interest_rates_and_mortgages.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/11_chapter_11_mortgage_analysis_in_real_estate_practice.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/12_chapter_12_mortgage_underwriting_and_borrower_qualification.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/13_chapter_13_management_of_individual_loans.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/14_chapter_14_mortgage_loan_repayment_and_refinancing_options.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/15_chapter_15_introduction_to_real_estate_appraisal.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/16_chapter_16_direct_comparison_comparative_and_cost_approaches_of_appraisal.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/17_chapter_17_the_income_or_investment_approach_of_appraisal.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/18_chapter_18_introduction_to_marketing_and_technology.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/19_chapter_19_effective_negotiations_and_alternative_dispute_resolution.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/20_chapter_20_from_contract_to_completion.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/21_chapter_21_mortgage_brokering_blending_theory_and_practice.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/24_glossary.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/25_index.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="375EYsHzCAwPBxYvNhAVOu0cpS8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Volumes/macStore/pythonProjects/PythonProject/PdfNarrator/Books"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Books" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd6cfa1f-0d68-4a99-9a54-d4d28b75800d" name="Changes" comment="" />
+      <created>1766184582539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766184582539</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>327</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
